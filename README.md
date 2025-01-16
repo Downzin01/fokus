@@ -1,6 +1,4 @@
-<img src="./imagens/ReadMe/bannerLocalStorage.png" style="width: 100%; height: auto;" />
-
-<h1 align="center">✨ JavaScript: explorando a manipulação de elementos e da localStorage</h1>
+<h1 align="center">✨ JavaScript: Manipulando elementos no DOM & explorando a manipulação de elementos e da localStorage</h1>
 
 <section align="center">
     <h2>✨ Linguagens & Tecnologias Usadas para o desenvolvimento desse repositório</h2>
@@ -15,6 +13,11 @@
 
 <h1 align="center">📃 Tópicos aprendidos</h1>
 
+- [x] Construa uma aplicação de temporizador estilo Pomodoro do zero
+- [x] Conheça na prática métodos de manipulação de elementos no DOM, como estilos CSS, imagens e textos
+- [x] Altere atributos e classes de forma dinâmica com JavaScript
+- [x] Crie eventos de interação com a pessoa usuária
+- [x] Utilize objetos utilitários do JavaScript
 - [x] Identifique e utilize seletores CSS para interagir com elementos HTML através do JavaScript
 - [x] Aplique conhecimentos de JavaScript para manipular o DOM
 - [x] Gerencie eventos do usuário, como cliques ou envios de formulário
@@ -36,9 +39,16 @@
 </div>
   
 <section align="center">
-    <h2>Instrutor</h2>
+    <h2>Instrutores</h2>
     <table align="center">
         <tr>
+            <td>
+                <img 
+                    src="https://media.licdn.com/dms/image/v2/C4E03AQEYV6-AbrWjSA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1644505759993?e=1742428800&v=beta&t=x5K4oRhcWS6fWU2OndYHCYbWmlQFrWr0nZLQwppM5Cg" 
+                    alt="Foto de perfil do instrutor Luan Alves" 
+                    style="width: 150px; height: 150px;"
+                />
+            </td>
             <td>
                 <img 
                     src="https://media.licdn.com/dms/image/v2/D4D03AQH5Bxm3RKRleQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1690306042936?e=1742428800&v=beta&t=YkNYvSYEX4Lz864sV64tqvK2VNSn7htrU7ZWDJuLYDs" 
@@ -48,6 +58,11 @@
             </td>
         </tr>
         <tr>
+            <td>
+                <a href="https://www.linkedin.com/in/luanalvesdev/">
+                    Luan Alves
+                </a>
+            </td>
             <td>
                 <a href="https://www.linkedin.com/in/vinny-neves/">
                     Vinicios Neves
